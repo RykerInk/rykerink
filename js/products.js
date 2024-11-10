@@ -13,97 +13,97 @@ export function getProduct(productId) {
 export const products = [
 {
     id: '1',
-    image: 'images/products/landotee.JPG',
+    image: 'images/1.jpeg',
     name: 'Lando Norris <br> Tee',
     priceCents: 3899
 },
 {
     id: '2',
-    image: 'images/products/hamiltontee.JPG',
+    image: 'images/2.jpeg',
     name: 'Lewis Hamilton <br> Tee',
     priceCents: 3899
 },
 {
     id: '3',
-    image: 'images/products/sainztee.JPG',
+    image: 'images/3.jpeg',
     name: 'Carlos Sainz <br> Tee',
     priceCents: 3899
 },
 {
     id: '4',
-    image: 'images/products/verstappentee.JPG',
+    image: 'images/4.jpeg',
     name: 'Max Verstappen <br> Tee',
     priceCents: 3899
 },
 {
     id: '5',
-    image: 'images/products/dannytee.JPG',
+    image: 'images/5.jpeg',
     name: 'Daniel Ricciardo <br> Tee',
     priceCents: 3899
 },
 {
     id: '6',
-    image: 'images/products/alonsotee.JPG',
+    image: 'images/6.jpeg',
     name: 'Fernando Alonso <br> Tee',
     priceCents: 3899
 },
 {
     id: '7',
-    image: 'images/products/leclerctee.JPG',
+    image: 'images/7.jpeg',
     name: 'Charles Leclerc <br> Tee',
     priceCents: 3899
 },
 {
     id: '8',
-    image: 'images/products/pereztee.JPG',
+    image: 'images/8.jpeg',
     name: 'Sergio Perez <br> Tee',
     priceCents: 3899
 },
 {
     id: '9',
-    image: 'images/products/monacotee.JPG',
+    image: 'images/9.jpeg',
     name: 'Monaco <br> Tee',
     priceCents: 3899
 },
 {
     id: '10',
-    image: 'images/products/monzatee.JPG',
+    image: 'images/10.jpeg',
     name: 'Monza <br> Tee',
     priceCents: 3899
 },
 {
     id: '11',
-    image: 'images/products/boxboxboxxtee.JPG',
+    image: 'images/11.jpeg',
     name: 'BoxBoxBoxx <br> Tee',
     priceCents: 3899
 },
 {
     id: '12',
-    image: 'images/products/smoothoperatortee.JPG',
+    image: 'images/12.jpeg',
     name: 'Smooth Operator <br> Tee',
     priceCents: 3899
 },
 {
     id: '13',
-    image: 'images/products/oscartee.JPG',
+    image: 'images/13.jpeg',
     name: 'Oscar Piastri <br> Tee',
     priceCents: 3899
 },
 {
     id: '14',
-    image: 'images/products/ballislifetee.JPG',
+    image: 'images/14.jpeg',
     name: 'Ball is Lando <br> Tee',
     priceCents: 3899
 },
 {
     id: '15',
-    image: 'images/products/maxtee.JPG',
+    image: 'images/15.jpeg',
     name: 'Maxxx <br> Tee',
     priceCents: 3899
 },
 {
     id: '16',
-    image: 'images/products/yukitee.JPG',
+    image: 'images/16.jpeg',
     name: 'Yuki Tsunoda <br> Tee',
     priceCents: 3899
 },
