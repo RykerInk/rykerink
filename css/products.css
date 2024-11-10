@@ -54,8 +54,8 @@
 }
 
 .product-img {
-  width: fit-content;
-  height: 100%;
+  width: 100%;
+  height: stretch;
   border-radius: 2px;
 }
 
