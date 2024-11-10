@@ -3,7 +3,7 @@ import {products} from './products.js';
 
 let productsHTML = '';
 
-products.slice(0, 4).forEach((product) => {
+products.slice(0, 16).forEach((product) => {
     productsHTML += `
         <div class="product-box">
             <a href="https://rykerink.github.io/rykerink/${product.image}" target="_blank">
