@@ -1670,7 +1670,7 @@ input::-moz-focus-inner {
     }
  
     .header-logo {
-        left: 40px;
+        left: 6rem;
         top: 3rem;
         -webkit-transform: translateY(0);
         -ms-transform: translateY(0);
