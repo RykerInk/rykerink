@@ -54,10 +54,9 @@
 }
 
 .product-img {
-  width: 110%;
-  height: auto;
+  width: 100%;
+  height: fit-content;
   border-radius: 2px;
-  margin-bottom: 0.2rem;
 }
 
 .product-title {
