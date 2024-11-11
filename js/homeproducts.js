@@ -6,9 +6,7 @@ let productsHTML = '';
 products.slice(0, 16).forEach((product) => {
     productsHTML += `
         <div class="product-box">
-            <a href="https://rykerink.github.io/rykerink/${product.image}" target="_blank">
-                <img class="product-img" src="${product.image}">
-            </a>
+            <img class="product-img" src="${product.image}">
         </div>
     `;
 });
