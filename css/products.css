@@ -40,6 +40,7 @@
   width: 100%;
   height: stretch;
   border-radius: 2px;
+  margin-bottom: -2px;
 }
 
 @media (max-width: 2000px) {
