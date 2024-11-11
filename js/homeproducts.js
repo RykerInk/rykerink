@@ -3,7 +3,7 @@ import {products} from './products.js';
 
 let productsHTML = '';
 
-products.slice(0, 16).forEach((product) => {
+products.forEach((product) => {
     productsHTML += `
         <div class="product-box">
             <img class="product-img" src="${product.image}">
