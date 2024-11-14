@@ -32,6 +32,26 @@
 	
 	  gtag('config', 'AW-16776169773');
 	</script>
+
+	<!-- Event snippet for Purchase conversion page
+	In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+	<script>
+	function gtag_report_conversion(url) {
+	  var callback = function () {
+	    if (typeof(url) != 'undefined') {
+	      window.location = url;
+	    }
+	  };
+	  gtag('event', 'conversion', {
+	      'send_to': 'AW-16776169773/kjV7CJqZ_-kZEK2SwL8-',
+	      'value': 1.0,
+	      'currency': 'USD',
+	      'transaction_id': '',
+	      'event_callback': callback
+	  });
+	  return false;
+	}
+	</script>
     </head>
     
     <body id="top">
@@ -266,7 +286,7 @@
                         6. Attach References (Optional): <br>
                     </h5>
 		    <br>
-                    <div class="col-five tab-full contact-button" data-aos="fade-up">
+                    <div class="col-five tab-full contact-button" data-aos="fade-up" onclick="gtag_report_conversion(url)">
                     <a href=mailto:rykerink@gmail.com class="btn btn-animatedbg">
                         <p class="email-link">Book Now</p>
                     </a>
