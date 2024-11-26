@@ -2401,7 +2401,7 @@ html.cl-loaded .home-content__main {
 
 .about-description {
   max-width: 45rem;
-}
+} 
  
 .about-process .item-process__header--planning::before {
     background-image: url(../images/icons/icon-planning.svg);
