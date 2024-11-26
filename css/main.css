@@ -2389,6 +2389,10 @@ html.cl-loaded .home-content__main {
     top: 0;
     left: 0;
 }
+
+.profile-pic {
+   width: 20rem;
+ )
  
 .about-process .item-process__header--planning::before {
     background-image: url(../images/icons/icon-planning.svg);
