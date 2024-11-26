@@ -2395,7 +2395,7 @@ html.cl-loaded .home-content__main {
 }
 
  .about-section {
-   display: flex;
+   display: block;
    flex-direction: column;
  }
 
