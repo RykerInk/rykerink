@@ -2391,8 +2391,13 @@ html.cl-loaded .home-content__main {
 }
 
 .profile-pic {
-   width: 20rem;
+   width: 25rem;
  )
+
+ .about-section {
+   display: flex;
+   flex-direction: column;
+ }
  
 .about-process .item-process__header--planning::before {
     background-image: url(../images/icons/icon-planning.svg);
