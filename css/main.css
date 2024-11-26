@@ -2398,6 +2398,10 @@ html.cl-loaded .home-content__main {
    display: flex;
    flex-direction: column;
  }
+
+.about-description {
+  max-width: 45rem;
+}
  
 .about-process .item-process__header--planning::before {
     background-image: url(../images/icons/icon-planning.svg);
