@@ -75,4 +75,36 @@ export const products = [
     id: '16',
     image: 'images/16.jpeg',
 },
+{
+    id: '17',
+    image: 'images/17.jpeg',
+},
+{
+    id: '18',
+    image: 'images/18.jpeg',
+},
+{
+    id: '19',
+    image: 'images/19.jpeg',
+},
+{
+    id: '20',
+    image: 'images/20.jpeg',
+},
+{
+    id: '21',
+    image: 'images/21.jpeg',
+},
+{
+    id: '22',
+    image: 'images/22.jpeg',
+},
+{
+    id: '23',
+    image: 'images/23.jpeg',
+},
+{
+    id: '24',
+    image: 'images/24.jpeg',
+},
 ];
