@@ -72,8 +72,8 @@ export const products = [
     image: 'images/14.jpg',
 },
 {
-    id: '13',
-    image: 'images/13.jpg',
+    id: '1',
+    image: 'images/1.jpg',
 },
 {
     id: '17',
