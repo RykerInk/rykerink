@@ -12,8 +12,8 @@ export function getProduct(productId) {
 
 export const products = [
 {
-    id: '1',
-    image: 'images/1.jpg',
+    id: '13',
+    image: 'images/13.jpg',
 },
 {
     id: '2',
